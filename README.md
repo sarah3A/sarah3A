@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil!!! 👋
 
 <!--
-**sarah3A/sarah3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+meu nome é sarah
+- 🔭 estou estudando na alura
+- 🌱 gosto de ler
+- 👯 amo cozinhar, já pensei em fazer gastronomia
+- 🤔 vou cursar psicologia
+- 💬 a cor verde é a minha preferida
+- 📫 adoro o ar livre, natureza, parques
+- 😄 tenho 17 anos 
+- ⚡ não tenho um bom humor
 -->
